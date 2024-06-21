@@ -1,5 +1,5 @@
 # Personal Portfolio 🔥
-> https://rajaprerak.github.io/
+> https://vineetha-kottapalli.github.io/vineetha_portfolio.github.io/
 
 :star: Star me on GitHub — it helps!
 
